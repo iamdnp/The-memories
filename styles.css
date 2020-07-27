@@ -1,0 +1,57 @@
+
+body{
+
+  background-image: url("332.jpg");
+}
+p{
+  font-family: 'Yesteryear', cursive;
+}
+footer{
+  position: fixed;
+  right:0;
+  bottom:0;
+}
+.batch{
+  width: 100px;
+  border-radius: 100%;
+  position: fixed;
+  top: 10px;
+  left: 15px;
+  z-index: 100;
+}
+.hhc{
+  margin:0;
+  padding: 0;
+  border-width: 0;
+}
+.club-logo{
+  width: 150px;
+  border-radius: 15px;
+  position: fixed;
+  top: 12px;
+  right: 20px;
+  z-index: 100;
+}
+h1{
+  font-size: 4rem;
+  padding-top: 40px;
+  text-align: center;
+  font-family: monospace;
+}
+#common{
+  margin: 9% 5%;
+}
+.active{
+  font-size: 2rem;
+  width: 65%;
+  height: 70%;
+  text-align: center;
+  margin-left: 13%;
+  font-family: 'Caveat', cursive;
+}
+.dd{
+  width: 100px;
+  border-radius: 100%;
+  margin:0;
+  padding:0;
+}
